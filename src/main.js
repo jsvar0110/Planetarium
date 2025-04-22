@@ -35,8 +35,8 @@ const orbitRadius = 4.5;
 const textures = [
   "./csilla/color.png",
   "./earth/map.jpg",
-  "./venus/map.jpg",
-  "./volcanic/color.png",
+  "./venus/jupiter.jpg",
+  "./volcanic/mars.jpg",
 ];
 const spheres = new THREE.Group();
 
